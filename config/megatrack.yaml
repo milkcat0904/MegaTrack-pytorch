@@ -1,0 +1,9 @@
+keynet:
+
+  # 是否需要加载imageNet预训练模型
+  pretrained: False
+  resume: False
+  model_folder: ''
+  checkpoint: ''
+
+detnet:

@@ -1,0 +1,63 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="27">
+            <item index="0" class="java.lang.String" itemvalue="pyyaml" />
+            <item index="1" class="java.lang.String" itemvalue="json_tricks" />
+            <item index="2" class="java.lang.String" itemvalue="scikit-image" />
+            <item index="3" class="java.lang.String" itemvalue="scipy" />
+            <item index="4" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="5" class="java.lang.String" itemvalue="tensorboardX" />
+            <item index="6" class="java.lang.String" itemvalue="EasyDict" />
+            <item index="7" class="java.lang.String" itemvalue="torchvision" />
+            <item index="8" class="java.lang.String" itemvalue="Cython" />
+            <item index="9" class="java.lang.String" itemvalue="imageio" />
+            <item index="10" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="11" class="java.lang.String" itemvalue="pillow" />
+            <item index="12" class="java.lang.String" itemvalue="torch" />
+            <item index="13" class="java.lang.String" itemvalue="numpy" />
+            <item index="14" class="java.lang.String" itemvalue="pandas" />
+            <item index="15" class="java.lang.String" itemvalue="tensorflow-gpu" />
+            <item index="16" class="java.lang.String" itemvalue="keras" />
+            <item index="17" class="java.lang.String" itemvalue="xlrd" />
+            <item index="18" class="java.lang.String" itemvalue="sklearn" />
+            <item index="19" class="java.lang.String" itemvalue="torchsummary" />
+            <item index="20" class="java.lang.String" itemvalue="termcolor" />
+            <item index="21" class="java.lang.String" itemvalue="easydict" />
+            <item index="22" class="java.lang.String" itemvalue="shapely" />
+            <item index="23" class="java.lang.String" itemvalue="tqdm" />
+            <item index="24" class="java.lang.String" itemvalue="scikit-learn" />
+            <item index="25" class="java.lang.String" itemvalue="sharply" />
+            <item index="26" class="java.lang.String" itemvalue="rich" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="core.libmoonergy" />
+          <option value="core.libsunergy" />
+          <option value="libs.libsunergy" />
+          <option value="libs.libmoonergy" />
+          <option value="demo.sunergy_pytorch_image_demo.libs" />
+          <option value="core.utils.libs" />
+          <option value="demo.sun_pytorch_human_detector.libs" />
+          <option value="demo.video_demo.libs" />
+          <option value="core.inference.libs" />
+          <option value="pose.models.pose_resnet.easydict" />
+          <option value="cfg.polygon.Input.function" />
+          <option value="demo.single_person_image_demo.libs" />
+          <option value="core.libs" />
+          <option value="configs.status_detect_cfgs.__future__" />
+          <option value="libmoonergy" />
+          <option value="core.dataloader.libs" />
+          <option value="tuple.values" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
